@@ -1,2 +1,3 @@
 # webserv
-42 - Coding a simple HTTP server in C++
+
+42 project, recoding our own web server in C++. A program capable of running an HTTP server, handling requests, and parsing configuration files.
